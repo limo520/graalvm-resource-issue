@@ -1,0 +1,18 @@
+{
+  "resources": {
+    "includes": []
+  },
+  "bundles": [
+    {
+      "name": "testresource",
+      "locales": [
+        "",
+        "en",
+        "en_US",
+        "en_GB",
+        "zh",
+        "zh_CN"
+      ]
+    }
+  ]
+}
